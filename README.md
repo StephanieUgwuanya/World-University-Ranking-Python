@@ -17,7 +17,7 @@ The hypothesis explored in this project:
 
 <h1>Data & Tools</h1>
 
-The dataset, sourced from <a href="https://www.kaggle.com/datasets/mylesoneill/world-university-rankings/data">Kaggle</a>, is based on external data from the following reliable sources, likely gathered through surveys, research metrics, and statistical analyses:
+The dataset, sourced from <a href="https://www.kaggle.com/datasets/mylesoneill/world-university-rankings/data">Kaggle</a>, is based on external data from the following reliable sources, gathered through surveys, research metrics, and statistical analyses:
 
 •	The Times Higher Education World University Ranking, founded in the UK in 2010, is widely regarded as one of the most influential and closely watched university ranking systems.
 
