@@ -7,6 +7,8 @@ In addition, the dataset examines several key factors, including the quality of 
 
 <h1>Key Questions & Objectives</h1>
 
+
+
 Universities continually aim to improve their rankings to elevate their reputation and prestige. A higher rank not only enhances global recognition but also increases access to funding, which can be reinvested in upgrading facilities and advancing the institution’s mission. This analysis was designed to assist university administrators and leadership in strategically allocating resources to strengthen their global standing.
 
 The hypothesis explored in this project:
@@ -24,6 +26,19 @@ The dataset, sourced from <a href="https://www.kaggle.com/datasets/mylesoneill/w
 •	The Centre for World University Rankings, a lesser-known listing from Saudi Arabia, was founded in 2012 and provides another valuable perspective on university rankings.
 
 These rankings provide a comprehensive and credible look at university performance across various dimensions.
+
+
+<b>This repository contains Jupyter notebook: </b>
+
+<b>01 Project Management</b>
+Conatins the project brief outlining the objectives, key questions and data sources.
+
+<b>03 Scripts</b>
+Contains the python scripts created on Google Colab detailing the analysis process.
+
+Link to Data Visualization:
+
+https://public.tableau.com/views/Excercise6-UniversityData/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
